@@ -1,6 +1,11 @@
 Changes
 =======
 
+Version v2.1.0 (released 2026-07-09)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- feat(errors): enhance errors with further information
+
 Version v2.0.1 (released 2026-07-02)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
